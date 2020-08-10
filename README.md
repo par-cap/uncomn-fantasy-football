@@ -1,6 +1,8 @@
-##### Individual leagues will be made up of 12 teams each.
+# UGLIs Fantasy Football Multi-League Tool
 
-### Weeks 1-11
+###### Note: Individual leagues will be made up of 12 teams each.
+
+#### Weeks 1-11
 - Weeks 1-11 will involve each team playing a head-to-head against each and every team in their league.
 - For example:
   - Team 4 Schedule
@@ -21,7 +23,7 @@
   - Total Points For
 - No trades will be possible after 11:59pm on the Monday of Week 11.
 
-### Weeks 12-14
+#### Weeks 12-14
 - In Weeks 12-14, the lowest weekly Points For among those remaining will be eliminated from contention.
 - For example:
   - Week 12:
@@ -38,24 +40,24 @@
     - Team 11: 153 pts
 - Therefore, Team 11 would advance to the Championship.
 
-### Weeks 15-16
+#### Weeks 15-16
 - Weeks 15-16 denote the Championship
 - A two-week Points For total will determine the winner amongst the league playoff winners.
 - For example
   - Team A11:
     - Week 15: 134 pts
     - Week 16: 162 pts
-    - ~~Total: 296 pts~~
+    - ~~Two-Week Total: 296 pts~~
   - Team B2:
     - Week 15: 125 pts
     - Week 16: 158 pts
-    - ~~Total: 283 pts~~
+    - ~~Two-Week Total: 283 pts~~
   - Team C7:
     - Week 15: 191 pts
     - Week 16: 140 pts
-    - Total: 331 pts
+    - Two-Week Total: 331 pts
   - Team D4:
     - Week 15: 172 pts
     - Week 16: 158 pts
-    - ~~Total: 330 pts~~
+    - ~~Two-Week Total: 330 pts~~
 - Therefore, Team C7 would win the Championship and the Trophy!
